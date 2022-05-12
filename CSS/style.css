@@ -1,0 +1,71 @@
+body {
+    background-color: yellow;
+}
+
+.menu {
+    background-color: green;  
+}
+.class {
+
+}
+
+#id {
+
+}
+
+.formacao {
+    color:cornflowerblue;
+}
+
+.formacao a {
+    color:cornflowerblue;
+}
+
+.bg-dark {
+    background-color: black;
+    color: white;
+}
+
+.bg-dark a {
+    color: white;
+}
+
+nav {
+    background-color: red;
+    border: 6px solid black;
+    border-top-color: green;
+    border-top-width: 6px;
+    border-top-style: dotted;
+    border-bottom-color: blue;
+    border-bottom-width: 6px;
+    border-bottom-style: dotted;
+    border-left-color: orange;
+    border-left-style: dashed;
+    border-left-width: 6px;
+    border-right-color: darkmagenta;
+    border-right-style: solid;
+    border-right-width: 6px;
+    font-size: 25px;
+}
+
+
+.p-section {
+    color: purple;
+    background-color: green;
+    font-size: 20px;
+
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.5em;
+    list-style: disc;
+}
+
+p {
+    font-size: 2em;
+}
+ 
+
